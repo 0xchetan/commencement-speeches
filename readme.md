@@ -16,6 +16,6 @@ An awesome list of awesome commencement speeches given by awesome people.
 
 + **Richard Feynman** at the California Institute of Technology in 1974 : "*Cargo cult science*" ( [Transcript](http://calteches.library.caltech.edu/51/2/CargoCult.htm) )
 
-+ **Sheryl Sandberg**at University of California, Berkeley in 2016 ( [Transcript](https://news.berkeley.edu/wp-content/uploads/2016/05/Sheryl-Sandberg-Berkeley-commencement-speech.pdf),  [Video](https://www.youtube.com/watch?v=iqm-XEqpayc) )
++ **Sheryl Sandberg** at University of California, Berkeley in 2016 ( [Transcript](https://news.berkeley.edu/wp-content/uploads/2016/05/Sheryl-Sandberg-Berkeley-commencement-speech.pdf),  [Video](https://www.youtube.com/watch?v=iqm-XEqpayc) )
 
 + **Steve Jobs** at Stanford University in 2005: "*Stay Hungry, Stay Foolish*" ( [Transcript](https://news.stanford.edu/2005/06/14/jobs-061505/), [Video](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=31s) )
