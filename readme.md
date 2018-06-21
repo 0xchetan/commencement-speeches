@@ -10,7 +10,7 @@ An awesome list of awesome commencement speeches given by awesome people.
 
 + **J. K. Rowling** at Harvard University in 2008: "*The Fringe Benefits of Failure*" ( [Transcript](https://news.harvard.edu/gazette/story/2008/06/text-of-j-k-rowling-speech/), [Video](https://www.youtube.com/watch?v=UibfDUPJAEU) )
 
-+ **Mark Zukerberg**at Harvard University in 2017 ( [Transcript](https://qz.com/992048/mark-zuckerbergs-harvard-speech-a-full-transcript-of-the-facebook-ceos-commencement-address/), [Video](https://www.youtube.com/watch?v=BmYv8XGl-YU&index=5&list=PLmKRqVB-F_KEn-NJLgvVnoZ_DO39RFtwF) )
++ **Mark Zukerberg** at Harvard University in 2017 ( [Transcript](https://qz.com/992048/mark-zuckerbergs-harvard-speech-a-full-transcript-of-the-facebook-ceos-commencement-address/), [Video](https://www.youtube.com/watch?v=BmYv8XGl-YU&index=5&list=PLmKRqVB-F_KEn-NJLgvVnoZ_DO39RFtwF) )
 
 + **Oprah Winfrey** at Harvard University in 2013 ( [Transcript](https://news.harvard.edu/gazette/story/2013/05/winfreys-commencement-address/), [Video](https://www.youtube.com/watch?v=GMWFieBGR7c) )
 
